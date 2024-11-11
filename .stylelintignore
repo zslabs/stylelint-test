@@ -1,0 +1,4 @@
+stylelint.config.js
+*.js
+*.ts
+*.bash
