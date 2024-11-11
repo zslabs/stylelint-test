@@ -1,14 +1,11 @@
 # Stylelint overrides peformance test
 
-This is a performance test for stylelint overrides of varying lengths:
-
-[Discussion](https://github.com/stylelint/stylelint/issues/8043#issuecomment-2457169509)
+This is a performance test for stylelint overrides of varying lengths. [Discussion](https://github.com/stylelint/stylelint/issues/8043#issuecomment-2457169509)
 
 ## Test results
 
 ```
 ./runner.sh
-
 
 Running stylelint with configuration: stylelint.config.js
 Execution time with stylelint.config.js: 3 seconds
